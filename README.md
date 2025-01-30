@@ -1,5 +1,5 @@
 # michella-sPickN-Shop
-michellapicknshop.com Online Ordering Product System Thesis
+College Thesis - Online Ordering Product System
 
 All functionalities of the website is stated in the documantation that is located in the repository
 
